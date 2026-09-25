@@ -4,3 +4,4 @@ Tecnologías utilizadas: GitHub, Git
 Pasos de instalación: Actividad Classroom
 Dependencias: requeriments.txt
 Autor: Yo
+Estado: En proceso
